@@ -1,0 +1,14 @@
+com/noodle_distribution_apps/BuildConfig.java
+ com.noodle_distribution_apps.BuildConfig
+com/noodle_distribution_apps/MainApplication.java
+ com.noodle_distribution_apps.MainApplication
+ com.noodle_distribution_apps.MainApplication$1
+com/noodle_distribution_apps/ReactNativeFlipper.java
+ com.noodle_distribution_apps.ReactNativeFlipper
+ com.noodle_distribution_apps.ReactNativeFlipper$1
+ com.noodle_distribution_apps.ReactNativeFlipper$2
+ com.noodle_distribution_apps.ReactNativeFlipper$2$1
+com/noodle_distribution_apps/MainActivity.java
+ com.noodle_distribution_apps.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
