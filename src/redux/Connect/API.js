@@ -5,7 +5,7 @@ export const getNoodle = () => {
     return fetch(dbURL)
       .then((response) => response.json())
       .then((json) => {
-        return json.movies;
+        return json.noodle;
       })
       .catch((error) => {
         console.error(error);
